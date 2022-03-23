@@ -1,1 +1,1 @@
-# memory_game
+github.com/rasakud/memory_game.git
